@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBm5zZLbQv3CK7yqdPcAKq0KvNdPqSdO7m7WmHRU92fpgL5tg+j24GFYUt9kYIpTtp9MgQo4ncppxxSecpXLUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\S.Ymashiro\\github.com\\dainabeblog\\EnableCode\\EnableCode\\EnableCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S.Ymashiro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
